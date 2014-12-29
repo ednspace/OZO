@@ -1,0 +1,18 @@
+To Zero Machine
+Move Laser Cross to the Corner
+
+Touchoff X  2.4018
+Touchoff Y -1.8330
+
+
+To set the Z place the spacer and go to MDI mode
+
+G38.2 Z-1.8 F4
+Touchoff Z .060
+
+Then to start cutting
+Move Z up so its off the work remove spacer
+and goto
+G0 X0 Y0 Z0
+
+Should be set

@@ -1,0 +1,1018 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F2rZV2VWzB1lvUlBLSmbfzIBUGQ3BvhkGy6vmMwXE+V+CtID4MMmC+PRw3M3EFTx
+ /GBrXMJYrrhAobq7cqMuVA==
+
+<SEC-DOCUMENT>0001047469-98-044521.txt : 19981222
+<SEC-HEADER>0001047469-98-044521.hdr.sgml : 19981222
+ACCESSION NUMBER:		0001047469-98-044521
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19981215
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		19981221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OZO DIVERSIFIED AUTOMATION INC /CO/
+		CENTRAL INDEX KEY:			0000812152
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				840922701
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-16335
+		FILM NUMBER:		98772466
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7450 EAST JEWELL AVE STE A
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80231
+		BUSINESS PHONE:		3033680401
+
+	MAIL ADDRESS:	
+		STREET 1:		7450 E JEWELL AVE
+		STREET 2:		STE A
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80231
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+<PAGE>
+
+                          SECURITIES AND EXCHANGE COMMISSION
+                                   Washington, D.C.
+
+                                       FORM 8-K
+
+                    CURRENT REPORT PURSUANT TO SECTION 13 OR 15(d)
+                        OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                          Date of Report: December 15, 1998
+
+
+                           OZO DIVERSIFIED AUTOMATION, INC.
+                ------------------------------------------------------
+                (Exact name of Registrant as specified in its charter)
+
+                           Commission file number: 0-16335
+
+             Colorado                                       84-0922701
+   -------------------------------                   ----------------------
+   (State or other jurisdiction of                        (IRS Employer
+   incorporation or organization)                    Identification Number)
+
+
+7450 East Jewell Ave, Suite A, Denver, Colorado               80231
+- -----------------------------------------------             ----------
+(Address of principal executive offices)                    (Zip Code)
+
+
+                 Registrant's telephone number, including area code:
+                                    (303) 368-0401
+
+                                    not applicable
+                     --------------------------------------------
+                     former name or former address, if applicable
+
+<PAGE>
+
+ITEM 5.   OTHER EVENTS
+
+EXTENSION OF THE PROPOSED TRANSACTION WITH JOT AUTOMATION, INC.
+
+     In its report on Form 8-K reporting an event of November 4, 1998, OZO 
+Diversified Automation, Inc. (OTCBB: 'OZOA') reported that it had entered 
+into an Asset Purchase Agreement with JOT Automation, Inc. of Dallas, Texas. 
+Following the execution by both parties of that Agreement, OZO continued 
+negotiating certain of the documents with respect thereto, and prepared and 
+filed with the Securities and Exchange Commission a preliminary proxy 
+statement in accordance with SEC Regulation 14A.  The staff members of the 
+Commission's Division of Corporation Finance elected to review OZO's 
+preliminary proxy statement.  The decision to review the proxy statement has 
+two consequences to OZO:
+
+     The shareholder vote on the proposed transaction between OZO and JOT
+     Automation described in the preliminary proxy statement cannot occur prior
+     to the end of 1998, which means that the completion of the transaction (if
+     approved by the OZO shareholders, of which there can be no assurance)
+     cannot occur on January 2, 1999, as scheduled in the Asset Purchase
+     Agreement; and
+
+     The shareholders of OZO will not be able to elect directors at the
+     shareholders meeting when the meeting is held.
+
+     As a result of those consequences, OZO and JOT Automation, Inc., have 
+entered into an amendment to the Asset Purchase Agreement which provides that 
+the completion of the transaction will take place on the first business day 
+not earlier than three days after approval of the transaction by the 
+shareholders of OZO.  In addition, JOT Automation has made certain 
+accommodations for OZO to make expenditures necessary or appropriate to 
+maintain and improve the Excluded Assets and to repay certain outstanding 
+debt which will become due before the transaction with JOT Automation can be 
+completed.  OZO will have to repay these extraordinary expenditures to JOT as 
+the completion of the transaction (if completed, of which there can be no 
+assurance).
+
+     Also as a result of the delay in finalizing the proxy statement, OZO has 
+elected to extend the record date for determining shareholders entitled to 
+notice of, and to vote at, the meeting.  The record date for the forthcoming 
+meeting will be December 31, 1998.
+
+CONVERSION/EXTENSION OF CERTAIN INDEBTEDNESS
+
+     On November 13, 1998, in an effort to reduce the Company's total 
+indebtedness, the Board of Directors authorized a reduction in the conversion 
+price of outstanding convertible promissory notes from $1.14 per share to 
+$.875, a price which was still in excess of the market price on November 13, 
+1998, as quoted by the OTC Bulletin Board.  As a result, each of the twelve 
+$10,000 promissory notes became convertible into 11,428 shares as compared to 
+8,772 shares at the higher conversion price.  One of the Company's directors, 
+Alvin Katz, owns one convertible promissory note through his wife and two 
+additional convertible promissory notes through a partnership in which Mr. 
+Katz and his wife have a 50% interest.  Mr. Katz acquired interests in these 
+notes prior to his becoming a director of OZO.  The holders of seven 
+convertible promissory notes (including the notes in which Mr. Katz has an 
+interest) converted at the lower price, and the holders of three of 
+
+<PAGE>
+
+the remaining five convertible promissory notes extended the due date of 
+those notes until January 31, 1999.
+
+     There are also twelve $10,000 non-convertible promissory notes included 
+with the convertible promissory notes.  In each case the convertible and 
+non-convertible promissory notes were due on December 30, 1998.  (Mr. Katz 
+has interests in three of the non-convertible promissory notes as well.)  The 
+holders of ten of the non-convertible promissory notes (including the notes 
+in which Mr. Katz has an interest) extended the due date of those notes until 
+January 31, 1999.
+
+     In July 1998 Mr. Katz advanced $75,000 to OZO for use for working 
+capital purposes at a time when OZO's liquidity was extremely limited.  OZO 
+issued Mr. Katz a secured promissory note bearing interest at 10%, repayable 
+in full (with accrued interest) on December 31, 1998.  Mr. Katz has extended 
+the due date of the obligation to and including February 28, 1999.
+
+     Mr. Katz did not participate in the Board's vote to reduce the exercise 
+price of the convertible promissory notes.
+
+ITEM 7.   EXHIBITS
+
+     99.1.   Amendment No. 1 to Asset Purchase Agreement effective as of 
+             December 15, 1998
+
+     99.2.   Form of License Agreement from JOT Automation, Inc. to OZO to be
+             entered into at the closing of the transaction contemplated in the
+             Asset Purchase Agreement
+
+                                      SIGNATURES
+
+     Pursuant to the  requirements  of the  Securities  Exchange Act of 1934, as
+amended,  the  registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized. 
+
+
+                                       OZO DIVERSIFIED AUTOMATION, INC.
+
+
+December   , 1998                      By: David J. Wolenski
+                                           -------------------------------
+                                           David J. Wolenski, President
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+
+<PAGE>
+
+                                  AMENDMENT NO. 1 TO
+                               ASSET PURCHASE AGREEMENT
+
+     THIS AMENDMENT NO. 1 to THE ASSET PURCHASE AGREEMENT is made by and 
+between OZO Diversified Automation, Inc., a Colorado corporation (the 
+"Seller") and JOT Automation, Inc., a Texas corporation (the "Purchaser"), 
+and is effective as of December 15, 1998.
+
+                                       RECITALS
+
+A.   The Seller and the Purchaser entered into the Asset Purchase Agreement as
+     of November 4, 1998 (the "Asset Purchase Agreement").
+
+B.   The Seller has filed a proxy statement with the Securities and Exchange
+     Commission (the "Commission") which is being reviewed by the Commission
+     and, therefore, the parties are unable to complete the Asset Purchase
+     Agreement as originally scheduled.
+
+C.   The Seller and the Purchaser have concluded that certain changes to the
+     Asset Purchase Agreement are necessary as a result of the delays resulting
+     from the Commission's review process.
+
+D.   Except as otherwise defined herein, capitalized terms shall have the same
+     meaning as set forth in the Asset Purchase Agreement.
+
+     NOW, THEREFORE, in consideration of the mutual representations, 
+warranties and covenants contained in this Agreement and on the terms and 
+subject to the conditions herein set forth and contained in the Asset 
+Purchase Agreement, the parties hereto agree as follows:
+
+1.   The Seller and the Purchaser agree that the Closing will take place as
+     described in Section 1.3 of the Asset Purchase Agreement, but that the
+     Closing Date will be the first business day not less than three days after
+     the shareholders of the Seller approve the transactions contemplated in the
+     Asset Purchase Agreement (the "New Closing Date").
+
+2.   The Purchaser acknowledges that since the date of the Asset Purchase
+     Agreement, certain holders of the debt listed on Schedule 5.2 have extended
+     the Seller's obligation to pay such date from December 30, 1998.  The
+     Purchaser further acknowledges that certain of the holders of convertible
+     promissory notes listed on Schedule 5.2 have converted their notes into
+     shares of the Seller's common stock in accordance with their contractual
+     rights.  As a result of the foregoing, the information set forth in
+     Schedule 5.2 is not accurate as of the date hereof, and attached hereto is
+     a new Schedule 5.2 effective as of the date hereof.  
+
+3.   Certain of the amounts set forth on Schedule 5.2 are due on or before the
+     New Closing Date, and the Purchaser hereby grants its consent to the Seller
+     to make necessary and appropriate payments of such amounts to avoid
+     defaulting on such indebtedness.  After making any payment in respect of
+     the principal amount of such indebtedness, the Seller will notify Purchaser
+     as to the total amount of such payments (the "Recoupment Amount").
+
+<PAGE>
+
+4.   Because of the increased amount of time between the date of the Asset
+     Purchase Agreement and the Closing, the Seller will have to incur certain
+     expenditures to maintain the "Excluded Assets" which may not be considered
+     to be in the ordinary course of business contemplated in Section 5.2. 
+     Purchaser hereby grants the Seller the authority to make expenditures
+     necessary or appropriate to maintain and improve the Excluded Assets
+     provided that the Seller notifies Purchaser as to the purpose for and the
+     amount of such expenditures and the amount of such expenditures becomes
+     included within the Recoupment Amount.
+
+5.   In addition to (and without any limitation on) the access and reporting
+     requirements contained in Section 5.3 of the Asset Purchase Agreement:
+
+     (a)  not less frequently than weekly between the date hereof and the New
+          Closing Date, the Seller will provide the Purchaser with reports
+          detailing the expenditures made by the Seller and a statement as to
+          whether such expenditures are to be included in the Recoupment Amount
+          or are considered to be in the ordinary course of business.
+
+     (b)  within the weekly report described in Subsection 5(a), above, the
+          Seller will also identify all expenditures made (whether or not
+          considered to be "material expenditures" for the purposes of
+          Subsection 5(a)) which will be included within the Recoupment Amount,
+          and will provide a total of the Recoupment Amount through the date of
+          that report.
+
+     (c)  the Purchaser shall have the final determination as to what
+          expenditures reported in the weekly report described in Subsection
+          5(a) above are to be included in the Recoupment Amount, provided such
+          determination is made by the Purchaser in good faith, with the goal of
+          providing that expenditures related to the Excluded Assets are
+          intended to be included in the Recoupment Amount, and all other
+          expenditures made in the ordinary course of business are intended to
+          be outside the Recoupment Amount.
+
+6.   Section 5.8 of the Asset Purchase Agreement is hereby amended to provide
+     that the Seller may pay bonuses to its employees provided such bonuses are
+     not paid with cash, but rather shares of the Seller's restricted common
+     stock and provided further that the payment of such bonuses complies with
+     applicable federal and state securities and tax laws.
+
+7.   As a result of the establishment of the Recoupment Amount in this
+     Amendment, the parties amend the Asset Purchase Agreement to add a new
+     Section 1.11 which reads as follows:
+
+          SECTION 1.11   PAYMENT OF RECOUPMENT AMOUNT.  At the Closing, the
+     Seller will pay to the Purchaser in full,by cashier's or certified
+     check, funds in an amount equal to the "Recoupment Amount".
+
+8.   The provisions of Article X of the Asset Purchase Agreement apply to this
+     Amendment as though fully set forth herein.
+
+<PAGE>
+
+9.   Except as expressly modified hereby, the terms of the Asset Purchase
+     Agreement remain in full force and effect.
+
+     IN WITNESS WHEREOF, the undersigned parties have hereunto duly executed
+this Amendment as of the date first written above.
+
+
+PURCHASER                              SELLER
+JOT Automation, Inc.                   OZO Diversified Automation, Inc.
+
+
+By:                                    By: 
+   --------------------------             ----------------------------
+     President                            David J. Wolenski, President
+
+<PAGE>
+
+                                     SCHEDULE 5.2
+                                   DEBTS OF SELLER
+
+                              (AS OF DECEMBER 15, 1998)
+
+
+1.   $100,000 principal amount of promissory notes which are due 
+     January 31, 1999
+
+2.   $30,000 principal amount of convertible promissory notes which are due
+     January 31, 1999
+
+3.   $20,000 principal amount of promissory notes which are due 
+     December 30, 1998
+
+4.   $20,000 principal amount of convertible promissory notes which are due
+     December 30, 1998
+
+5.   $75,000 principal amount of loan from Alvin Katz to Seller which has been
+     extended to February 28, 1999
+
+6.   $11,715 principal amount of loan from David J. Wolenski to Seller which is
+     payable on demand
+
+7.   $18,147 payable on demand to David Orthman
+
+8.   Additional amounts that may be borrowed from related parties for the
+     purpose of repaying the foregoing debts when they become due.  
+
+This schedule will be updated from time-to-time as may be necessary to reflect
+any additional borrowings or debt conversions.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+
+<PAGE>
+
+                             TECHNOLOGY LICENSE AGREEMENT
+
+This Technology License Agreement (Agreement) dated as of ____________, 1998, 
+(the "Effective Date") is made by and between OZO Diversified Automation, 
+Inc., a Colorado corporation, ("OZO"), and JOT Automation, Inc., a Texas 
+corporation, ("JOT").
+
+I)     RECITALS
+
+       A)      WHEREAS, the Parties have entered into an Asset Purchase
+               Agreement executed between the Parties on November ___, 1998 (the
+               "Asset Purchase Agreement") for by which JOT purchased
+               substantially all of the assets of OZO, including the Licensed
+               Technology (as defined herein) and the disclosure of Trade
+               Secrets and Know-How related to the Technology (as such terms are
+               defined herein); and
+
+       B)      WHEREAS, OZO received the rights hereunder as partial
+               consideration for the transfer of the Licensed Technology (as
+               defined herein) to JOT; and
+
+       C)      WHEREAS, the Parties anticipate that OZO will exercise complete
+               exclusivity within the Field (as defined herein); and.
+
+       D)      WHEREAS, the Parties recognize that both companies will continue
+               to operate as independent technology development companies.
+
+II)    DEFINITIONS
+
+       A)      AFFILIATE:  "Affiliate" of a party shall mean any person,
+               organization, or entity that in any way, directly or indirectly,
+               controls, is controlled by, or is under common control with such
+               party.  For the purposes of this definition, "control" shall mean
+               ownership of at least fifty percent (50%) equity interest in or
+               by such person, organization, or entity.
+
+       B)      BUSINESS: "Business" shall have the meaning ascribed to it in the
+               Asset Purchase Agreement.
+
+       C)      CONFIDENTIAL INFORMATION:  "Confidential Information" shall mean
+               (i) any patent applications, Trade Secrets, or Know-How held by
+               either party  and regardless of whether marked or designated
+               "confidential" or "proprietary," and (ii) any information
+               disclosed to the receiving party orally or in writing or in model
+               form, in whatever format, relative to operations, existing and
+               proposed contracts, sales training and techniques, financial
+               data, trade secrets, marketing and business plans, research
+               and/or development, data, formulae, processes, designs,
+               specifications, product knowledge, procedures, methods and
+               techniques whether disclosed by way of documents, oral
+               communications, or visits to factories or other premises, and all
+               information regarding the existing and proposed commercial
+               operations of the disclosing party or relative to any other
+               confidential proprietary information  which is clearly marked at
+               the time of disclosure as being "Confidential."  Information
+               transmitted orally and identified at that time as being
+               Confidential shall be 
+
+<PAGE>
+
+               considered as "Confidential Information" if it is reduced to 
+               writing and transmitted to the receiving party within 15 days 
+               of its disclosure.
+
+       D)      FIELD:  "Field" shall mean Technology affecting or relating to
+               testing, evaluation, treatment, or manipulation of biologic
+               systems or processes.  Other application of the Licensed
+               Technology may be added in the future to the Field on terms
+               mutually agreeable to the parties.  Nothing in this definition of
+               Field shall modify or limit the effect of the non-competition
+               provisions in Section VII.  In the event that a dispute arises
+               with respect to whether a given activity of OZO is within the
+               Field, the parties will resort to the escalating dispute
+               resolution procedures set forth in Section X of this Agreement.
+
+       E)      IMPROVEMENTS:  "Improvements" shall mean any enhancement or
+               modification of the  Licensed Technology by either OZO or JOT.
+
+       F)      TECHNOLOGY RIGHTS:  "Technology Rights" shall mean intellectual
+               property rights including Patents, Copyrights, Trade Secrets and
+               Know-How, but not trademarks and trade names.
+
+       G)      TERRITORY: "Territory" shall mean world-wide.
+
+       H)      LICENSED PRODUCT:  "Licensed Product" shall mean the products
+               manufactured using any of the Licensed Technology.
+
+       I)      LICENSED TECHNOLOGY:  "Licensed Technology" shall mean Technology
+               related to manipulation of end effectors upon paths established
+               by the operator within extremely small tolerances and
+               demonstrates that movement visually on  a monitor together with
+               related algorithms and related hardware as set forth in Schedule
+               1.1 of the Asset Purchase Agreement.
+
+       J)      PARTY:  "Party" shall mean either JOT or OZO as the context
+               requires.
+
+       K)      TECHNOLOGY:  "Technology" shall mean any and all compositions,
+               machines, articles of manufacture, processes, apparatus, 
+               (collectively the "Inventions"); Patents, Copyrights, Trade
+               Secrets, and Know-How; data, writings and works of authorship
+               (including without limitation software, protocols, program codes,
+               audiovisual effects created by program code, and documentation
+               related thereto, drawings); mask works; other tangible items
+               (including without limitation materials, samples, components,
+               tools, and operating devices, e.g., board assemblies, and
+               engineering models);  and Technical Information.
+
+       L)      KNOW-HOW:  "Know How" means all factual knowledge and information
+               related to the Business and the Technology which is not capable
+               of precise, separate description but which, in accumulated form,
+               after being acquired as a result of trial and error, gives to the
+               one acquiring it the ability to produce and market something
+               which one would otherwise not have known how to produce and
+               market with the same accuracy or precision necessary for
+               commercial success, provided, however, that such knowledge and
+               information is not in the public domain or readily available to
+               any third party other than a limited number of persons who have
+               agreed to keep that information secret.
+
+                                       2
+
+<PAGE>
+
+       M)      TECHNICAL INFORMATION: "Technical Information" means any material
+               in human or machine-readable form which embodies or describes the
+               Licensed Technology covered by this Agreement as set forth in
+               Schedule 1.1 of the Asset Purchase Agreement.
+
+       N)      COPYRIGHTS: "Copyright(s)" means all forms of proprietary rights
+               granted by a government with respect to an original work of
+               authorship fixed in any tangible medium of expression from which
+               it can be perceived, reproduced or otherwise communicated
+               relating to the relating to the Technology covered by, and
+               existing at the time of, this Agreement as specifically set forth
+               in Schedule 1.1 of the Asset Purchase Agreement.
+
+       O)      TRADE SECRETS: "Trade Secrets" means any Technical Information
+               and Business Information that generally facilitates the sale of
+               products, increases revenues, is not generally known by others
+               than the parties except by those subject to restrictions on
+               disclosure, and provides an advantage over the competition.
+
+       P)      BUSINESS INFORMATION: "Business Information" means any material
+               in human or machine readable form used, compiled or produced by
+               or for the business of manufacturing and using the Licensed
+               Technology for the Licensed Products as set forth in Schedule 1.1
+               of the Asset Purchase Agreement.
+
+       Q)      PATENTS: "Patent(s)" means all forms of proprietary rights
+               granted by a government with respect to a design or an Invention,
+               including patents and certificates of addition, utility models,
+               and enforceable patent applications, i.e. those under which
+               injunctive relief is available, as well as any continuation,
+               division, extension, renewal, revival, or reissue thereof or
+               substitution therefor relating to the Technology covered by, and
+               existing at the time of, this Agreement as specifically set forth
+               in Schedule 1.1 of the Asset Purchase Agreement.
+
+III)   GRANT
+
+       A)      GRANT OF LICENSE:  Subject to the terms and conditions of this
+               Agreement, JOT hereby grants a OZO a fully paid, royalty free, 
+               perpetual  (or for the longest period of time permitted by law),
+               transferable, license under JOT's Technology Rights within the
+               Territory to (i) use, modify or create derivative works of the
+               Licensed Technology and Licensed Products, or sublicense such
+               rights (as set forth below) and (ii) make, have made, and sell
+               the Licensed Products within the Field.
+
+       B)      IMPROVEMENTS: All Improvements, whether conceived by JOT or OZO
+               shall belong to the Party which developed such Improvement.  The
+               Party creating, inventing, or authoring such Improvement shall
+               have the right to file patent applications, or any continuations,
+               renewals or extensions thereof in its own name, or copyright
+               registrations; PROVIDED, however, that any OZO Patent
+               applications, or any continuations, renewals or extensions
+               thereof shall be subject to the following requirements: 
+
+                    (1)  prior to issuance of any OZO Patent(s) based upon such
+                    Improvements, JOT shall be permitted to review the patent
+                    application to ensure that there is no disclosure of  Trade
+                    Secrets or Know-How that would operate in 
+
+                                       3
+
+<PAGE>
+
+                    derogation of JOT's Technology Rights or its ownership of 
+                    the Licensed Technology;
+ 
+                    (2) both OZO and JOT will cooperate in good faith to
+                    minimize any Trade Secrets and Know-How disclosure in the
+                    specifications of the applicable OZO Patent(s) based upon
+                    such Improvements; and
+
+                    (3) OZO shall not disclose any of JOT's Trade Secrets and
+                    Know-How in the specifications of the applicable OZO
+                    Patent(s) based upon such Improvements without JOT's written
+                    consent, such consent not to be unreasonably withheld.
+
+       C)           EXCLUSIVITY:  The grant of rights under this section shall
+                    be exclusive within the Field, with the right to grant
+                    sublicenses within the Field as set forth herein.
+
+       D)           SUBLICENSES:  OZO shall require all sub-licensees to sign an
+                    agreement which includes confidentiality and non-competition
+                    provisions commensurate with the provisions of this
+                    Agreement.
+
+       E)           RESTRICTIONS:    OZO shall not use the Licensed Technology
+                    in any products, Improvements or Inventions that compete
+                    with present or future products, Improvements or Inventions
+                    of  JOT in the field of production automation for the
+                    electronics industry.  
+
+IV)    OBLIGATIONS OF LICENSOR
+
+       A)      NONASSERTION. JOT agrees that it shall not assert against OZO or
+               its customers and licensees, any claims for infringement or
+               misappropriation based on the manufacture, use, or sale of any
+               Licensed Products; PROVIDED, HOWEVER, that such Licensed Products
+               are manufactured, used or sold solely within the Field.
+
+V)     PROTECTION OF INTELLECTUAL PROPERTY RIGHTS
+
+       A)      GENERAL.  Both Parties shall take reasonable measures to prevent
+               unauthorized copying and protect the Licensed Technology, and use
+               best efforts to protect the Trade Secrets and Know-How therein, 
+               but neither Party shall be obligated hereunder to take any
+               measures in excess of those it takes to protect its own valuable
+               Technology.
+
+       B)      THIRD-PARTY INFRINGERS.  Upon the discovery of any infringement
+               or misappropriation of the Licensed Technology under the
+               Technology Rights within the Field hereunder, the Parties hereto
+               shall consult together with a view to reaching an agreement as to
+               the ways and means of eliminating such infringement or addressing
+               such misappropriation.  If the Parties agree jointly to commence
+               litigation against potential third party infringers, they will
+               agree by their respective shares the expense burden thereof,
+               which shares will be identical to their respective division of
+               any recoveries thereof.  In the event that JOT declines to
+               participate in the enforcement and/or protection of the Licensed
+               Technology under the Technology 
+
+                                       4
+
+<PAGE>
+
+               Rights, OZO may, at its sole discretion and expense and to the 
+               extent permitted by law, initiate proceedings or take such 
+               steps as it deems appropriate, to enforce its rights with 
+               respect thereto.  JOT shall cooperate with OZO in such defense 
+               at OZO's sole expense.  
+
+VI)    CONFIDENTIALITY
+
+       A)      NON-DISCLOSURE.  During the thirty (30) days immediately
+               following the effective date of this Agreement (the "Disclosure
+               Period"), and subject to the terms herein, certain information
+               that is considered by the discloser to be proprietary or
+               confidential may be disclosed or exchanged between the Parties.
+               The Parties further recognize that  the Trade Secrets and
+               Know-How are vital to the continued commercial  viability of the
+               Licensed Technology, the disclosure of  which would be
+               detrimental to the Parties' interests. In addition, this
+               Agreement and the Parties' interest in the subject matter of this
+               Agreement are Confidential Information and shall be treated on
+               the same basis as set forth herein. Unless expressly authorized
+               in writing by the Parties, both Parties agree to retain the
+               Confidential Information in confidence in perpetuity and not to
+               disclose the Confidential Information to any third party (except
+               as expressly authorized under this Agreement and subject to such
+               confidentiality and non-competition obligations) and not to use
+               the Confidential Information for any purpose other than to
+               exercise their rights in accordance with this Agreement.
+
+       B)      DISSEMINATION OF INFORMATION.  The Parties  recognize that the
+               Licensed Technology disseminated to OZO is that Licensed
+               Technology in existence as of the execution of this Agreement,
+               and that there is no intent by either Party to continue
+               disclosure of Confidential Information developed independently by
+               either party subsequent to the Disclosure Period.  Each Party
+               shall hold in confidence the other's Confidential Information in
+               perpetuity and shall not, without prior written consent of the
+               other Party, disclose such information to any person except its
+               own employees, or its Affiliate's employees,  its contractors or
+               sublicensees having a need to know and having executed written
+               agreements binding them to this duty of non-disclosure.  Each
+               Party shall not use the other's Confidential Information for any
+               purpose except to exercise its rights in accordance with this
+               Agreement.
+
+       C)      EXCLUSIONS.  The parties acknowledge that Confidential
+               Information shall not include any information which:
+
+               1)   is or becomes publicly known through no act or omission to
+                    act on the recipient's part, provided a combination of two
+                    or more portions of the Confidential Information shall not
+                    be deemed to be publicly known by reason only of each
+                    separate portion being so known; or 
+
+               2)   is rightfully received by the recipient from a third party
+                    without breach of any duty of non-disclosure; or
+
+               3)   is explicitly approved for release by written authorization
+                    of the disclosing party; 
+
+               4)   is required by law to be disclosed; or
+
+                                       5
+
+<PAGE>
+
+               5)   disclosures to potential investors or lenders required to
+                    obtain financing, provided, however, that (i) JOT is
+                    provided prompt notice of such disclosure, and (ii) any such
+                    investors or lenders shall be bound by confidentiality
+                    agreements commensurate with this Agreement prior to any
+                    such disclosure.
+
+       D)      CONFIDENTIAL TREATMENT.  Any Confidential Information obtained by
+               the receiving party pursuant to the provisions of this Agreement
+               shall be treated as confidential, except that in the event of any
+               dispute, litigation or arbitration proceedings between the
+               parties, such Confidential Information may be disclosed to the
+               tribunal.  Prior to any Confidential Information being disclosed
+               pursuant to the preceding sentence, or Section VI.C.5. above, the
+               receiving party shall give the disclosing party reasonable notice
+               of pending disclosure and both parties shall cooperate to
+               undertake all reasonable measures to obtain a protective order
+               prohibiting or limiting disclosure of such Confidential
+               Information.
+
+       E)      The provisions of this section shall survive the termination,
+               expiration or cancellation of this Agreement. 
+
+VII)   NON-COMPETITION
+
+       A)      JOT NON-COMPETITION: Independent of any other obligation under
+               this Agreement, for a period of five (5) years following
+               execution of this Agreement, JOT shall not, directly or
+               indirectly, whether itself for its own account or for or with any
+               other person, firm, corporation, partnership, joint venture,
+               association, or other entity whatsoever; engage in activities or
+               take a position as a shareholder, director, officer, employee, or
+               agent of any person, firm, corporation, partnership, joint
+               venture, association, or other entity in the Field that competes
+               directly with OZO or which is involved in the creation,
+               manufacture, publication, or marketing of products and services
+               which are substantially similar to the Licensed Products in the
+               Field.
+
+       B)      OZO NON-COMPETITION: Independent of any other obligation under
+               this Agreement, for a period of five (5) years following
+               execution of this Agreement, OZO shall not, directly or
+               indirectly, whether itself for its own account or for or with any
+               other person, firm, corporation, partnership, joint venture,
+               association, or other entity whatsoever; engage in activities or
+               take a position as a shareholder, director, officer, employee, or
+               agent of any person, firm, corporation, partnership, joint
+               venture, association, or other entity that competes directly with
+               JOT or which is involved in the creation, manufacture,
+               publication, or marketing of products and services which are
+               substantially similar to the Licensed Technology or Licensed
+               Products in JOT's "Business" as such term is defined in the Asset
+               Purchase Agreement, including, but not limited to production
+               automation in the electronics industry or electronic assembly.
+
+       C)      REASONABLENESS OF RESTRICTIONS:  The Parties agree that the
+               limitations as to time, geographical area, and scope of activity
+               to be restrained by this Section VII are reasonable and
+               acceptable to the Parties, and do not impose any greater
+               restraint than is reasonably necessary to protect the goodwill
+               and other business interests of the Parties.  To the extent a
+               court of competent jurisdiction determines that the non-
+               competition agreement set forth in this Section VII does not
+               comply with applicable 
+
+                                       6
+
+<PAGE>
+
+               law of the governing jurisdiction, this paragraph may be 
+               reformed by the court and enforced to the maximum extent 
+               permitted by law. 
+
+
+VIII)  REPRESENTATIONS AND WARRANTIES
+
+       A)      JOT REPRESENTATION: JOT warrants and represents to OZO that (i)
+               JOT has the right, power and legal capacity to enter into this
+               Agreement and has the right to license the Licensed Technology as
+               set forth in Section III; and (ii) to the best of JOT's
+               knowledge, commensurate with OZO's representations within the
+               Asset Purchase Agreement, the Licensed Technology does not
+               infringe upon the rights of any third party.
+
+       B)      DISCLAIMER: Nothing else contained in this Agreement shall be
+               construed as a warranty or representation by JOT that the use of
+               Licensed Technology furnished or licensed hereunder will be free
+               from infringement of the intellectual property rights of others,
+               or that OZO's utilization of the Trade Secret or Know-How
+               received from JOT will not infringe patents owned by anyone.  JOT
+               does not otherwise warrant the accuracy of any Trade Secret or
+               Know-How.  THE FOREGOING ARE IN LIEU OF AND EXCLUDE ALL OTHER
+               EXPRESSED AND/OR IMPLIED WARRANTIES, INCLUDING WARRANTIES OF 
+               NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR ANY 
+               PARTICULAR PURPOSE, WITH RESPECT TO THE LICENSED TECHNOLOGY OR 
+               ANY INFORMATION OR SERVICES FURNISHED IN CONNECTION WITH THE 
+               LICENSED TECHNOLOGY. Further, nothing in this Agreement shall 
+               be construed as a warranty or representation as to the 
+               validity or scope of any patent, or a requirement that either 
+               party shall file any patent application, secure any patent or 
+               maintain any patent in force.
+
+IX)    INDEMNIFICATION
+
+       A)      JOT INDEMNIFICATION. JOT shall indemnify and hold OZO and its
+               officers and directors and Affiliates (the "OZO Indeminified
+               Parties") harmless from and against any liability, losses,
+               damages and expenses (including but not limited to reasonable
+               attorney's fees) from third party action arising out of,
+               resulting from, or related to  any inaccuracy in any of the
+               representations, or any breach of the warranties made by JOT in
+               this Agreement or any failure by JOT to perform and observe any
+               term, provision, covenant, agreement or condition under this
+               Agreement which it is obligated to perform or observe.  The OZO
+               Indemnified Parties must (i) promptly notify JOT of any such
+               claim in writing, (ii) allow JOT to control the defense and
+               settlement of the claim, and (iii) provide JOT with all
+               reasonable information, assistance and authority concerning such
+               claim.  JOT shall have the right to be represented by counsel of
+               its own choosing at its expense.
+
+       B)      OZO INDEMNIFICATION.  OZO shall indemnify and hold JOT and its
+               officers and directors and Affiliates (the "JOT Indeminified
+               Parties") harmless from and against any liability, losses,
+               damages and expenses (including, but not limited to reasonable
+               attorney's fees) from any third party action arising out of,
+               resulting from, or related to (a) any inaccuracy in any of the
+               representations, or any breach of the warranties 
+
+                                       7
+
+<PAGE>
+
+               made by OZO in this Agreement, or (b) any claim that the Licensed
+               Products infringe upon or misappropriate any patent, copyright, 
+               or other similar proprietary right of any third party, which 
+               infringement or misappropriation is not caused by the Licensed 
+               Technology, or (c) any failure by OZO to perform and observe any
+               term, provision, covenant, agreement or condition under this 
+               Agreement which it is obligated to perform or observe. The JOT 
+               Indemnified Parties must (i) promptly notify OZO of any such 
+               claim in writing, (ii) allow OZO to control the defense and 
+               settlement of the claim, and (iii) provide OZO with all 
+               reasonable information, assistance and authority concerning 
+               such claim.
+
+       C)      IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR
+               INDIRECT, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES WHATSOEVER,
+               WHETHER GROUNDED IN TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY
+               OR CONTRACT EXCEPT WITH RESPECT TO A BREACH OF THE
+               CONFIDENTIALITY PROVISIONS HEREUNDER.
+
+X)     REMEDIES
+
+       A)      INJUNCTIVE RELIEF.  In the event of a breach by either Party, of
+               the confidentiality, licensing, or non-competition provisions
+               contained in this Agreement, the non-breaching Party shall be
+               entitled to an injunction from engaging in or continuing with any
+               conduct which may constitute a breach or threatened breach of
+               those provisions.  An injunction may also be sought against the
+               breaching Party from rendering services to any person, firm,
+               corporation, association or other entity which may in some manner
+               receive benefit from the breaching Party's breach or threatened
+               breach of those provisions.  The Parties agree that there is no
+               adequate remedy at law for the irreparable harm that would result
+               from a breach thereof and therefore the parties consent to
+               injunctive relief to enforce this Agreement.  Nothing in this
+               Section X shall be construed as prohibiting the parties from
+               pursuing other remedies which may be available for breach or
+               threatened breach, including the recovery of damages.
+
+       B)      ATTORNEYS' FEES.  In the event of any action or proceeding
+               brought by either party against the other under this Agreement,
+               the prevailing party shall be entitled to recover all expenses
+               incurred therefor, including, but not limited to, reasonable
+               attorneys' fees.
+
+       C)      DISPUTE RESOLUTION.
+
+               1)   STEP NEGOTIATIONS.  The parties shall attempt in good faith
+                    to resolve any dispute arising out of or relating to this
+                    Agreement promptly by negotiations, as follows.  Any party
+                    may give the other party written notice of any dispute not
+                    resolved in the normal course of business.  Executives of
+                    both parties who have previously been involved in the
+                    dispute shall meet at a mutually acceptable time and place
+                    within 10 days after delivery of such notice, and thereafter
+                    as often as they reasonably deem necessary, to exchange
+                    relevant information and to attempt to resolve the dispute. 
+                    If the matter has not been resolved by these persons within
+                    30 days of the disputing party's notice, or if the parties
+                    fail to meet within ten (10) days, the dispute shall be
+                    referred to 
+
+                                       8
+
+<PAGE>
+
+                    senior executives of both parties who have authority to 
+                    settle the dispute and who shall likewise meet to attempt 
+                    to resolve the dispute.  If the matter has not been 
+                    resolved within thirty (30) days from the referral of the 
+                    dispute to senior executives, or if no meeting of senior 
+                    executives has taken place within 15 days after such 
+                    referral, either party may initiate mediation as provided 
+                    hereinafter.  If a negotiator intends to be accompanied 
+                    at a meeting by an attorney, the other negotiator shall 
+                    be given at least three working days' notice of such 
+                    intention and may also be accompanied by an attorney.  
+                    All negotiations pursuant to this clause are confidential 
+                    and shall be treated as compromise and settlement 
+                    negotiations for purposes of the Federal Rules of 
+                    Evidence and state rules of evidence.
+
+               2)   MEDIATION.  If the dispute has not been resolved by
+                    negotiation as provided above, the parties shall endeavor to
+                    settle the dispute by mediation under the then current
+                    presently effective Center for Public Resources ("CPR")
+                    Model Procedure for Mediation of Business Disputes.  The
+                    neutral third party will be selected from the CPR Panels of
+                    Neutrals.  If the parties encounter difficulty in agreeing
+                    on a neutral, they will seek the assistance of CPR in the
+                    selection process.
+
+               3)   ARBITRATION.  Should all good faith attempts to resolve the
+                    dispute amicably as set forth above be exhausted,  and if
+                    agreed to by the Parties,  any dispute arising in connection
+                    with this Agreement may be finally settled under the Rules
+                    of Conciliation and Arbitration of the International Chamber
+                    of Commerce (the "Rules") by three arbitrators appointed in
+                    accordance with the Rules on an expedited basis.  Such
+                    arbitration shall take place in Dallas, Texas, United States
+                    of America.  The arbitrators shall be bound by the laws 
+                    governing this Agreement, and this Agreement, and shall be
+                    bound by the obligation to retain Confidential Information
+                    in confidence in perpetuity and not to disclose Confidential
+                    Information.
+
+               4)   NO ELECTION OF REMEDIES.  Anything in this Agreement to the
+                    contrary notwithstanding including the arbitration clause
+                    set forth in this Section, the Court shall have the
+                    injunctive power set forth herein, and resort to injunctive
+                    relief or arbitration shall not be deemed as an election not
+                    to proceed with the other remedy.
+
+XI)    MISCELLANEOUS
+
+       A)      SUCCESSORS AND ASSIGNMENT.  Except as provided herein, this
+               Agreement or any rights hereunder shall not be assigned or
+               transferred, in whole or in part, by either Party without the
+               prior written consent of the other Party, and any such permitted
+               assignment or transfer shall be binding on each Party's
+               successors and permitted assignees.  Any attempted assignment in
+               contravention of the above shall be null and void.
+
+       B)      LIMITATION OF RIGHTS Except as expressly provided in this
+               Agreement, nothing contained herein shall be construed as
+               conferring any license or other rights by implication, estoppel
+               or otherwise.
+
+                                       9
+
+<PAGE>
+
+       C)      SEVERABILITY.  If any provision of this Agreement be adjudicated
+               invalid or against public policy for any reason by a court of
+               competent jurisdiction, it is specifically intended that each and
+               every provision not so invalidated shall remain in full force and
+               effect.
+
+       D)      CHOICE OF LAW.  This Agreement is made and entered into in the
+               State of Texas, U.S.A. and shall in all ways be governed and
+               construed by the law of such State, without regard to conflicts
+               of law.
+
+       E)      WAIVER.  No waiver of any provision of this Agreement shall be
+               construed to be a waiver of any subsequent breach of the same or
+               any other provision of this Agreement.
+
+       F)      INDEXING.  All indexing set forth in this Agreement are intended
+               for convenience only and shall not control or affect the meaning,
+               construction or effect of this Agreement or of any of the
+               provisions thereof.
+
+       G)      NON-PARTNERSHIP.  Each Party shall bear its respective expenses,
+               risks, and liabilities arising out of its efforts related to this
+               Agreement.  The Parties to this Agreement are independent
+               contractors.  This Agreement shall not constitute, create, give
+               effect to, or imply a joint venture, pooling arrangement,
+               partnership, formal business organization or any type of
+               permanent arrangement of any kind.  Neither Party shall (i) have
+               the authority to bind the other except to the extent authorized
+               herein, (ii) be liable to the other for any damages, whether
+               direct, indirect, special, incidental or consequential,  whether
+               arising out of contract, tort (negligence) or strict liability,
+               or (iii) share losses with the other.
+
+       H)      ABSENCE OF THIRD-PARTY BENEFICIARY RIGHTS.  Except as otherwise
+               provided in this Agreement, no provision of this Agreement is
+               intended nor shall be interpreted to provide or create any third
+               party beneficiary rights or any other rights of any kind in any
+               sublicensee, and all provisions hereof shall be personal solely
+               between the parties hereto.
+
+       I)      INTEGRATION.  Except for the Asset Purchase Agreement, this
+               Agreement constitutes the entire Agreement between the parties. 
+               No amendments to this Agreement shall be made other than by a
+               written amendment signed by both Parties.  This Technology
+               License Agreement shall supplement the Asset Purchase Agreement
+               and to the extent that there are contradictions, this Technology
+               License Agreement shall prevail.
+
+
+Licensor                                Licensee
+
+JOT Automation, Inc                     OZO Diversified Automation, Inc.
+
+By:                                     By:
+   -------------------------------         -------------------------------
+Its:                                    Its:
+   -------------------------------         -------------------------------
+
+                                       10
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,29 @@
+The history of the OZO machine 
+
+OZO Diversified Automation, Inc. was incorporated as a Colorado Corporation on October 13, 1983. Since its formation, the Company has been engaged in the design and manufacture of robotic workstations for the electronics industry. The initial products offered by OZO included small scale CNC (Computer Numerically Controlled) drilling machines used in the fabrication of prototype printed circuit boards. As of the late 1980's, the Company diversified its product line to include routing and depaneling workstations. OZO workstations are found in various segments of the electronics industry, including electronics assembly companies (i.e., medium and large OEMs), printed circuit board fabricators (i.e., Contract Manufacturers), product design and prototype shops, and test fixture fabricators. 
+
+In 1999, OZO was acquired by JOT Automation, Inc. JOT built and supported the OZO machine on a very small scale through several ex-OZO employees, however, they specialized in their own machines and eventually gave less support to existing OZO owners. 
+
+OZO Models : 
+
+OZO Machines, Model 18 & Model 24, were designed for the table top for smaller PCB manufacturing shops. They have been used for Prototyping, producing the first article, all the way up to production of mass quantities of single layer and multilayer PCBs. They use stepper motors and a custom OZO spindle (2030, 1050) or mechanical etch head (6010). 
+
+The software is flexible and powerful and yet able to be greatly simplified for foolproof operator use. The command language is typical Excellon Format 2 standard (sometimes called EIA IPC-D-356 or G-codes) is available with variations of LZI, TZI and decimal point; inch and metric. Flexible language translation is also available for foreign languages, such as : Gerber (RS-274X) and HP-GL Pen Plot. 
+
+They have also been used to drill ATE Test Fixtures (and insert test sockets & personality pins), rout the gaskets and a variety of unique applications, such as : drilling designs in plexiglass or testing an array of components. 
+
+The later design, Model 18HS (high speed), is much larger more robust model with more reliable and long lasting design. The software is much more sophisticated, window like. The machine uses heavy duty servo motors and is safer, automated and enclosed. They use a custom OZO spindle (2050). There were a few CE compliant models. 
+
+The Model 16SI is an inline depanelling router with robotics to load, hold, rout and unload the finished circuit board. It communicates with adjacent conveyors using SMEMA handshaking and with the robotics using a proprietary Macro (PLC like) control language. 
+
+This Macro control language functions similarly to PLC logic control but uses straight forward logical english-like commands and program sequencing with subroutines and text descriptions of input and output devices. It could be used on a PC as a stand alone logic controller for any type of IO control. 
+
+OZO Sales Worldwide : 
+
+The OZO machines have been sold under a variety of names : Model 18HS standalone router, and the Model 16SI fully-automated, inline system, were marketed under the trade names PanelMASTER 18HS and PanelROUTER 16SI, respectively. Also OZO Korea and CircuitSmith. 
+
+The stepper-motor systems, which included the Model 18 and Model 24 multipurpose machines, which were distributed under the PanelMASTER, FixtureMASTER, EtchMASTER, and LabMASTER product designations. 
+
+The OZO machines were sold throughout the world : United States, Canada, Mexico, Australia, Brazil, Egypt, Hong Kong and the Peoples Republic of China, India, Israel, Malaysia, New Zealand, Pakistan, the Philippines, Singapore, South Korea, Taiwan, Turkey, the United Arab Emirates, and the United Kingdom. 
+
+All these machines were manufactured with pride in the USA. We have many customers who know the quality of these OZO machines. As their needs grow they often request to add another OZO machine to their family of solidly built and functional OZO machines. 

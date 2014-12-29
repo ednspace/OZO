@@ -1,0 +1,36 @@
+This email is from the person that sent me the manual images. I later combined them all into a pdf. These are his troubleshooting notes after working around the machines for several years and being tech support. (7/15/2010)
+
+From Tim
+I'll attach the manual files separately, let me know if you get them.The collection of images I have is about 20 megs. It includes wiring diagrams/colors and some schematics for *most* of the internal boards,except for the spindle motor driver card. The wiring colors are not 100% accurate.
+
+Much of the manual deals with the original OZO software, which wasn't really relevant for my needs, so I didn't scan/photo all that stuff when I had the chance. I think the only points worth having from the software/setup part are:
+
+Spindle speed: 5000 to 50,000 RPM. This corresponds to a 50 ~ 500Hz squarewave (50% duty cycle) on the spindle freq. line from the PC. Sounds like you solved it by tying directly into the voltage control onboard before scrapping the spindles, but I managed to replicate the squarewave control in EMC by setting the spindle up as a velocity-controlled stepper motor using stepgen and a step_type of 2 (quadrature). Their spindles really are intended for lighter duty stuff - the manual mostly talks about stuff like PCB depaneling and mechanical etch. They'll really haul ass through some FR-4, but I think you've got the right idea saving it for precision work.
+
+Air supply: a troubleshooting section mentions to make sure 70PSI is available at the pneumatic collet...although our production ones are at 90 and I could swear I read 90PSI *somewhere*. Need to doublecheck this, although ours have run at 90PSI for probably the last decade without incident.
+
+Maximum X/Y speed: They recommended 120IPM. I think for Z it was 175, but this seems pretty high.
+
+Zeroing sequence: The original software brings each axis toward home until the optical switch trips (high -> low transition), then continues (slowly?) until the next INDEX pulse from the encoder wheel. Probably only matters if you have table jigs designed for use with the original software.
+
+
+You're right that the official machines use a proprietary I/O card, not the parallel port. Originally this was the 'John Bell Card', named after the guy, presumably at Ozo, who designed it. A real piece of work - it includes a giant ISA logic board with some kind of hand-soldered perfboard circuit piggybacked on, and a pigtail for connecting to the PC_SPEAKER connector on your (286-486) motherboard to drive the spindle. Later they changed to what I assume is a commercially available motion card called StepperIO. Just in the last few days I got one of our spare machines fully working on EMC2 using a little breakout board I made to connect 2 parallel ports to the Ozo's
+cable.
+
+Finally - the machines we have at work have been pretty dependable given their age, but I've had to do a few electrical repairs to them over some years (this is what happens when your co-workers figure out you are familiar with them!). I don't know about mechanical repairs - if there have been any, the mechies have handled it themselves nd I haven't heard about it. This is over 2 full-time production machines and bringing 2 junk/parts machines back to life. Assuming these might be the 'weak points' in the design, you might at some point run into
+similar issues. Things I've replaced:
+
+On the control logic board: components Q5 and D4 (transistor and diode leading up to the solenoid out signal), on 2 separate boards.
+
+Anaheim Automation stepper drives (large blue/black box): 2x. In both cases the cooling fan had seized, causing the electronics to sizzle sometime later. Replacing these fans whether-needed-or-not might be good cheap preventative maintenance.
+
+Terminal blocks on Anaheim box: 1x. Worn-out pins causing intermittent failures / jittering-around of an axis motor.
+
+Axis motor: 1x (discontinued; replaced it with a Keling motor with similar specs)
+
+Optical home switches and associated connector: At least 2-3x (I've lost count). Over time the plastic degrades and begins to crack /crumble away.
+
+Hope this helps! I'd be interested to read more about your more recent projects if/when you post about them. Now that I've got the EMC stuff sorted, I should update my own with the conf files and lessons learned
+to date.
+
+Tim

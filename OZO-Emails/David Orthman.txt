@@ -1,0 +1,10 @@
+From Eric (12/15/2012)
+I guess I posted to a DIY PCB yahoo group to see if anyone had any info about the machine back in 2008 and he responded about 4 years later. The email was dated just a couple of months ago. I sat down and wrote a really long and nice (I thought) response but haven't heard back. I'll include it at the end, its interesting, I wish I could pull him out of the woodwork, I pointed him to the web page that I put up detailing how I brought the machine back to life, I was hoping he may want to fill in some history of the company that made these amazing machines.
+
+For what its worth I called the machine a "neat depaneling machine" in my original post to the DIY PCB group. He may be a little peaved by email to realize a hacker walked away with such a beast of machine but... I do LOVE IT! and it was not getting in love buried beneath a pile of junk in the back corner of the tin shed.
+
+
+From David Orthman
+Hi. I am the first "O" in OZO. That neat depaneling machine would be a $55k machine with +/-0.001" machining accuracy and a 25yr design life. I have long ago sold the company but usually have a soft spot for universities that purchased the equipment. Your lonely machine probably was mothballed because the purchasing company was likely playing sqwash with my valued customers and when they dropped contact, well, like you said. The machine hopefully still has the interface card that plugs into a PC. Not to worry, it seems nobody thought a custom interface card ran realtime software. Give me the name of the University, machine serial number and tell me what you want to do with it. For Universities, I have designed attachments for everything from basic multilayer PCBs down to direct write multichip module making sub-micron traces. One University used it in ceramic another doing micro flex circuits etc. I assume you have at least a spindle and camera microscope. What else do you have?
+
+Sincerely, David Orthman
